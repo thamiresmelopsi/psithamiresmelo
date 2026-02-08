@@ -187,6 +187,7 @@ footer { padding: 40px 0; text-align: center; color: #aaa; font-size: 0.9rem; bo
     }
 
     .main-image {
+        margin-bottom: 32px;
         text-align: center;
     }
 
@@ -197,6 +198,10 @@ footer { padding: 40px 0; text-align: center; color: #aaa; font-size: 0.9rem; bo
 
     .sobre-image img {
         border-radius: 25px;
+    }
+
+    .sobre-image {
+        margin-top: 32px;
     }
 
     .credenciais-tags span {
