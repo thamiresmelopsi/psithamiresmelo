@@ -185,14 +185,6 @@ footer { padding: 40px 0; text-align: center; color: #aaa; font-size: 0.9rem; bo
         border-radius: 25px;
     }
 
-    /* BADGES – desativa posicionamento absoluto no mobile */
-    .badge {
-        position: static;
-        display: inline-block;
-        margin: 8px 6px 0 0;
-        font-size: 0.8rem;
-    }
-
     .main-image {
         text-align: center;
     }
@@ -243,5 +235,6 @@ footer { padding: 40px 0; text-align: center; color: #aaa; font-size: 0.9rem; bo
         font-size: 0.95rem;
     }
 }
+
 
 
